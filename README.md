@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @bleediez
-- 👀 I’m interested in web3 mostly
-- 🌱 I’m currently learning sql
-- 💞️ I’m looking to collaborate on nothing atm
+Hi, I’m breediez
+I’m interested in web3 mostly
+I’m currently learning sql & C++
+I’m looking to collaborate on nothing atm
 
 
 <!---
